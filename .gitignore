@@ -1,0 +1,6 @@
+auth_token.txt
+fernet_key.txt
+proxy_server_ip
+proxies.txt
+__pycache__
+.idea
